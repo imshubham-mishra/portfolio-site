@@ -111,7 +111,7 @@ body {
     padding: 1rem 1rem;
     text-align: center;
     margin-top: 2rem;
-     padding-left: 2rem;
+    padding-left: 1rem;
     /* padding-inline-start: 0px; */
     /* text-align: center; */
 }
@@ -124,6 +124,7 @@ body {
     border-bottom-right-radius: 1rem;
     border-top-right-radius: 1rem;
     margin-top: 4rem;
+    min-height: 20vh;
 }
 
 .footer ul {
@@ -161,13 +162,3 @@ body {
 .ow .list-non-bullet .text{
     padding-bottom: 0.7rem;
 }
-/* .background-image{
-    background-image: url('https://github.com/imshubham-mishra/portfolio-site/blob/master/images%2Fproject%20background.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;  
-    background-size: cover;
-}  
-
- */
-
-
