@@ -71,6 +71,7 @@ body {
 
 .navigation .nav-pills {
     text-align: right;
+    font-size: large;
 }
 
 .navigation .link {
@@ -148,6 +149,7 @@ body {
     background-color: var(--primary-color);
     color: white;
 }
-.blogs-style{
+.section-style{
     padding-bottom: 3rem;
+    style="margin-top:3px;"
 }
