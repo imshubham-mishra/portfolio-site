@@ -124,7 +124,7 @@ body {
     border-bottom-right-radius: 1rem;
     border-top-right-radius: 1rem;
     margin-top: 4rem;
-    min-height: 20vh;
+    min-height: auto;
 }
 
 .footer ul {
