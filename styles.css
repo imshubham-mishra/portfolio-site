@@ -147,3 +147,6 @@ body {
     background-color: var(--primary-color);
     color: white;
 }
+.blogs-style{
+    padding-bottom: 3rem;
+}
