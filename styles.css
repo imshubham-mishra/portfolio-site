@@ -111,6 +111,7 @@ body {
     padding: 1rem 1rem;
     text-align: center;
     margin-top: 2rem;
+     padding-left: 2rem;
     /* padding-inline-start: 0px; */
     /* text-align: center; */
 }
@@ -152,4 +153,11 @@ body {
 .section-style{
     padding-bottom: 3rem;
     style="margin-top:3px;"
+}
+.ow ul{
+    padding-inline-start: 0px;
+}
+
+.ow .list-non-bullet .text{
+    padding-bottom: 0.7rem;
 }
