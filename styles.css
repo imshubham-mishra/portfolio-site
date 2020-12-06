@@ -162,3 +162,8 @@ body {
 .ow .list-non-bullet .text{
     padding-bottom: 0.7rem;
 }
+
+.img-styling{
+    width: fit-content;
+    min-height: fit-content;
+}
