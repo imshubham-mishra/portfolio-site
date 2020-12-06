@@ -165,10 +165,14 @@ body {
 
 .img-styling{
 width: 100%;
-} 
+width: 400px;
+max-width: 100%;
+height: auto;
+}
+ 
 
-.img-edit{
+/* .img-edit{
     width: 400px;
     max-width: 100%;
     height: auto;
-}
+} */
